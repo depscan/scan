@@ -1,0 +1,19 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
+                      http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+<modelVersion>4.0.0</modelVersion>
+<groupId>class-Random.gav-Original.metadata-true.uberjar-true.objective</groupId>
+<artifactId>amy.wong</artifactId>
+<version>11246597590</version>
+
+
+<dependencies>
+<dependency>
+<groupId>tender</groupId>
+<artifactId>milhouse.van.houten</artifactId>
+<version>2981318630</version>
+</dependency>
+</dependencies>
+</project>
